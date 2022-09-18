@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/MyApp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApp/flutter_app1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApp/flutter_app1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApp/flutter_app1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApp/flutter_app2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApp/flutter_app2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApp/flutter_app2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApp/app2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApp/app2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApp/app2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApp/app1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApp/app1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApp/app1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApp/app3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApp/app3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApp/app3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApp/app4/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApp/app4/build" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApp/app4/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter_study/app2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter_study/app2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter_study/app2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter_study/app1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter_study/app1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter_study/app1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter_study/app3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter_study/app3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter_study/app3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter_study/app4/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter_study/app4/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Flutter_study/app4/.dart_tool" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
