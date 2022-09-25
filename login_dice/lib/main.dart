@@ -62,7 +62,7 @@ class _LogInState extends State<LogIn> {
                                       color: Colors.teal, fontSize: 15.0))),
                           child: Container(
                             padding: EdgeInsets.all(40.0),
-                            child: Column(children: [
+                            child: Column(children: [ // 히히 민석 왔다감
                               TextField(
                                 // autofocus: true,
                                 controller: controller,
