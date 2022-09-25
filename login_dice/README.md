@@ -20,4 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Focus
   - FocusNode: 포커스를 받는 특정 위젯을 식별
+<<<<<<< HEAD
   - FocusScope: 어떤 위젯들까지 포커스를 받는지 범위를 나타냄
+=======
+>>>>>>> cc1170aeaf8046f52152bbfa812d927be3c8f7f0
