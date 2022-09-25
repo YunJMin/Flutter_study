@@ -50,7 +50,6 @@ class Mycard extends StatelessWidget{
       appBar: AppBar(
         title: Text('BBANTO'),
         centerTitle: true,
-        backgroundColor: ,
       ),
 
     );
