@@ -16,13 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## SingleChildScrollView 위젯
-<br>    - 키보드가 밑에서 밀고 올라와서 스크린 영역을 차지할 때 차지한 화면이 스크롤 될 수 있도록 만들어 주는 위젯
-
-If statement
-<br>    if(오른쪽 길에 장애물이 있다면)
-<br>        {왼쪽으로 방향을 틀 것}
-<!-- A == B / A != B / A && B / A || B /  A > B / A < B / A >= B / A <= B -->
+  - 키보드가 밑에서 밀고 올라와서 스크린 영역을 차지할 때 차지한 화면이 스크롤 될 수 있도록 만들어 주는 위젯
 
 ## Focus
-<br>    - FocusNode: 포커스를 받는 특정 위젯을 식별
-<br>    - FocusScope: 어떤 위젯들까지 포커스를 받는지 범위를 나타냄
+  - FocusNode: 포커스를 받는 특정 위젯을 식별
+  - FocusScope: 어떤 위젯들까지 포커스를 받는지 범위를 나타냄
